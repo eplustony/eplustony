@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eplustony and I'm a Lead Technical Architect for [ePlus Technology](https://discover.eplus.com/journey-to-modernization/data-center-modernization/)
+- 👀 I’m interested in Modern Data Center and Cloud Automation
+- 🌱 I’m currently learning Terraform, Azure, AWS, VMware Cloud
+- 📫 You can reach me at anthony.siano@eplus.com
